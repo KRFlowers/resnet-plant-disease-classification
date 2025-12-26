@@ -1,6 +1,6 @@
 # Evaluating Pre-trained ResNet50V2 for Plant Disease Classification
 
-This project evaluates use of pre-trained deep learning models for image classification. Using ResNet50V2 pre-trained on ImageNet, I compare transfer learning against custom CNN architectures. The models classify tomato plant diseases from the New Plant Diseases Dataset (Kaggle).
+This project evaluates the performance of a pre-trained ResNet50V2 model for image classification. Using transfer learning with ImageNet weights, I compare its performance against two custom CNN architectures. The models are trained to classify tomato plant diseases using the New Plant Diseases Dataset from Kaggle.
 
 ## Project Overview
 
