@@ -81,7 +81,13 @@ This project evaluates the performance of a pre-trained ResNet50V2 model for ima
 5. **Evaluate Results** - Compare performance across all models
 6. **Conclusion** - Review key findings, recommendations, lessons learned
 
-## Quick Start
+## Future Exploration
+
+- Fine-tune deeper ResNet layers by unfreezing selected blocks
+- Compare alternative pre-trained models 
+- Expand to full 38-class dataset including all plant types
+
+## How to Run
 
 **Platform:** Google Colab (GPU runtime recommended)
 
@@ -96,12 +102,6 @@ This project evaluates the performance of a pre-trained ResNet50V2 model for ima
 
 **Total Runtime:** ~2 hours (hyperparameter tuning: 90 min)
 
-## Future Exploration
-
-- Fine-tune deeper ResNet layers by unfreezing selected blocks
-- Compare alternative pre-trained models 
-- Expand to full 38-class dataset including all plant types
-
 ## References
 
 **Dataset:**  
@@ -113,9 +113,9 @@ New Plant Diseases Dataset. (n.d.). Kaggle. https://www.kaggle.com/datasets/vipo
 - Keras - ResNet and ResNetV2 API. https://keras.io/api/applications/resnet/
 - TensorFlow - Transfer Learning Tutorial. https://www.tensorflow.org/tutorials/images/transfer_learning
 
-## Contact
+## Author
 
 **Kristi Flowers**  
 kristirflowers@gmail.com
 
-**Questions?** Feel free to reach out!
+
