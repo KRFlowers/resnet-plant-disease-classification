@@ -1,0 +1,4 @@
+tensorflow>=2.15
+keras-tuner>=1.4
+numpy
+matplotlib
